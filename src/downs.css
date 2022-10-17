@@ -1,0 +1,22 @@
+.downs{
+    color: black;
+    display: flex;
+    margin-top: 20px;
+}
+
+.content{
+    padding: 5px;
+    margin: 5px;
+    flex: 80%;
+    background-color: aqua;
+}
+.del-btn{
+    width: 30px;
+    height: 30px;
+    margin-top: 5px;
+}
+span{
+    display: grid;
+    place-items: center;
+    border: 2px solid black;
+}
